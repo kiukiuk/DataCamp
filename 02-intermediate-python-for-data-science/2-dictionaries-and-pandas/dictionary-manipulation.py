@@ -12,7 +12,7 @@ Instructions
 -Print out europe.
 '''
 # Definition of dictionary
-europe = {'spain':'madrid', 'france':'paris', 'germany':'berlin', 'norway':'oslo' }
+europe = {'spain':'madrid', 'france':'paris', 'germany':'berlin', 'norway':'oslo', 'italy':'rome', 'poland':'warsaw'}
 
 # Add italy to europe
 europe["italy"] = 'rome'
